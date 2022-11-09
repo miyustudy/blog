@@ -8,8 +8,8 @@
 그 이후 일정 
 
 포토샵으로 프레임 워크 완성하기 10/31 am02:31 commit  </br> 
-html구조 ing </br> 11/09 pm02:39 commit 
-css완성 </br>  11/09 pm02:39 commit 
+html구조 11/09 pm02:39 commit </br> 
+css완성 11/09 pm02:39 commit </br> 
 js완성 </br> 
 리액트완성</br> 
 최종 </br> 
